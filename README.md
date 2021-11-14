@@ -1,5 +1,5 @@
 # Hi there 👋
-## About me:rainbow: :
+## :rainbow: About me:
 
 <!--
 **YanaGerasimenko/YanaGerasimenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
