@@ -1,6 +1,7 @@
 # Hi there 👋
 ## :rainbow: About me:
 
+I am Yana Gerasimenko, now only a middle school student. But I'm in my way to become a real developer and programmer. So I'm still learn and practicing. 
 <!--
 **YanaGerasimenko/YanaGerasimenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
