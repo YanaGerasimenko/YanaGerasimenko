@@ -5,7 +5,7 @@ I am Yana Gerasimenko, now only a middle school student. But I'm in my way to be
 
 I’m currently working on SDUMM (Multifunctional Manipulator Remote Control System), it's a underwater robotic (I will have special repository for this, but later).
 
-Also I'm practicing my skills in Yandex Lyceum (place for studying Python language)
+Also I'm practicing my skills in Yandex Lyceum (plface for studying Python language)
 <!--
 **YanaGerasimenko/YanaGerasimenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
