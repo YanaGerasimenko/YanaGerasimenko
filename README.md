@@ -1,5 +1,5 @@
 # Hey there👋
-## :shipit: About me: :rainbow:
+## :shipit: About me :rainbow:
 
 I am Yana Gerasimenko, now only a middle school student. But I'm in my way to become a real developer and programmer. So now I'm still learning and practicing in diffrent majorites like Cyber Security, Web Developing, Robotics and etc.
 
