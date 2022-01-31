@@ -1,5 +1,5 @@
 # Hey there 👋
-## :rainbow: About me: :shipit:
+## :rainbow: About me: :
 
 Pronouns: she/her 😄
 
