@@ -8,7 +8,7 @@ I am Yana Gerasimenko, now only a middle school student. But I'm in my way to be
 I’m currently working on SDUMM (Multifunctional Manipulator Remote Control System), it's a underwater robotic system (I will have special repository for this, but later).
 Also I'm practicing my skills in Python language. And started participate in different CTFs.
 #
-I'm looking to collaborate on Cyber Security projects and collaborations for CTF's
+I'm looking to collaborate on Cyber Security projects and collaborations for CTF's.
 <!--
 **YanaGerasimenko/YanaGerasimenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
