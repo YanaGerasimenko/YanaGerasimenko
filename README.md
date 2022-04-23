@@ -1,4 +1,4 @@
-# Hey there👋😄
+# 👋😄Hey there
 ## About me:rainbow:: 
 Pronouns: she/he😄
 #
