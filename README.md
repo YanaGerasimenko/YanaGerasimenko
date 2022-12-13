@@ -1,6 +1,6 @@
 Pronouns: she/her
 
-Current region: RU, Krasnoyarsk
+Current region: Russia, Krasnoyarsk
 
 Languages: ru/eng/ua
 
