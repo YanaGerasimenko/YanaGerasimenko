@@ -10,4 +10,4 @@ Team: Qualitas (also known as free_funky_frogs)
 
 Current programming languages: Python, C++ (Arduino)
 
-Goals: practising and learning
+Goals: practising and learning CTF majors, new programming languages
