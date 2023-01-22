@@ -12,4 +12,4 @@ Current programming languages: Python, C++ (Arduino) :open_file_folder:
 
 Goals: practising and learning CTF majors, new programming languages :pushpin:
 
-Write me in Telegram -> `yan0kyan0k` :vibration_mode:
+Write me in Telegram -> yan0kyan0k :vibration_mode:
