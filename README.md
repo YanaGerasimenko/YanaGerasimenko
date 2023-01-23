@@ -4,7 +4,7 @@ Current region: Russia, Krasnoyarsk :evergreen_tree:
 
 Languages: ru/eng/ua :earth_asia:
 
-Status: CTF player, Web-developer, Junior WebSecurity specialist :computer:
+Status: CTF beginner player, Web-developer, Junior WebSecurity specialist :computer:
 
 Team: Qualitas (also known as free_funky_frogs) :triangular_flag_on_post:
 
