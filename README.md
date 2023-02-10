@@ -8,7 +8,7 @@ Status: CTF beginner player, Web-developer, Junior WebSecurity specialist :compu
 
 Team: Qualitas (also known as free_funky_frogs) :triangular_flag_on_post:
 
-Current programming languages: Python, C++ (Arduino) :open_file_folder:
+Current programming languages: Python, C++ (Arduino) :open_file_folder: 
 
 Goals: practising and learning CTF majors, new programming languages, practising and learning cybersecurity :pushpin:
 
