@@ -2,7 +2,7 @@ Pronouns: she/her :sweat_smile:
  
 Current region: Russia, Krasnoyarsk :evergreen_tree: 
 
-Languages: ru/eng :earth_asia:
+Languages: ru/eng :earth_asia: 
 
 Status: CTF beginner player, Web-developer, Junior WebSecurity specialist :computer:
 
