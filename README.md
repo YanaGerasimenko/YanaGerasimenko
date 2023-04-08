@@ -10,7 +10,7 @@ Team: Qualitas (also known as free_funky_frogs) :triangular_flag_on_post:
 
 Current programming languages: Python, C++ (Arduino) :open_file_folder: 
 
-Goals: practising and learning CTF majors, new programming languages, practising and learning cybersecurity :pushpin:
+Goals: new programming languages, cybersecurity, all the things that seemed interesting to me :pushpin:
 
 Write me in Telegram -> yan0kyan0k :vibration_mode: 
  
