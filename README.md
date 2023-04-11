@@ -12,5 +12,5 @@ Current programming languages: Python, C++ (Arduino) :open_file_folder:
 
 Goals: new programming languages, cybersecurity, all the things that seemed interesting to me :pushpin:
 
-Write me in Telegram -> yan0kyan0k :vibration_mode: 
+Write me in Telegram, Instagram, VK -> yan0kyan0k :vibration_mode: 
  
