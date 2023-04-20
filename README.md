@@ -1,4 +1,4 @@
-Name: Yana
+Name: Yana :crescent_moon:
 
 Pronouns: she/her :sweat_smile:
  
