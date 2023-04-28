@@ -2,7 +2,7 @@ Name: Yana :crescent_moon:
 
 Pronouns: she/her :sweat_smile:
  
-Current region: Russia, Krasnoyarsk :evergreen_tree: :evergreen_tree: 
+Current region: Russia, Krasnoyarsk :evergreen_tree:
 
 Languages: ru/eng :earth_asia: 
 
