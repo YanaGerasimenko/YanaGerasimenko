@@ -1,4 +1,4 @@
-Name: Yana :crescent_moon:
+Name: Yana Gerasimenko :crescent_moon:
 
 Pronouns: she/her :sweat_smile:
  
