@@ -14,7 +14,7 @@ Current programming languages: Python, C++ (Arduino) :open_file_folder:
 
 Current CTF majors: forensics, web, admin, networks, pentest 😃 
 
-Goals: new programming languages, cybersecurity, all the things that seemed interesting to me :pushpin:
+Goals: new programming languages, cybersecurity, all the things that seemes interesting to me :pushpin:
 
 Write me in Telegram, Instagram, VK -> yan0kyan0k :vibration_mode: 
  
