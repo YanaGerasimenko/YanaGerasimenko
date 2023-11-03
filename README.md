@@ -1,20 +1,35 @@
-Name: Yana Gerasimenko :crescent_moon:
+-----
 
-Pronouns: she/her :sweat_smile:
- 
-Current region: Russia, Krasnoyarsk :evergreen_tree:
+## Greetings, wanderers! 🎲🍻
 
-Languages: ru/eng :earth_asia: 
+-----
 
-Status: CTF beginner player, Junior WebSecurity specialist :computer:
- 
-Team: Qualitas (also known as free_funky_frogs) :triangular_flag_on_post:
+```
+const character = {
+  name: "yana/яна",
+  race: "human",
+  class: "ctfer",
+  location: "krasnoyarsk/russia",
+  languages: "eng/ru/uk",
+  age: "17",
+  pronouns: "she" | "her",
+  weapons: [Python,  C++],
+  interests: [Robotics, Cybersec],
+  teams: ["qual3nc3", "qualitas/free_funky_frogs", "енотики/борщевик"],
+  tools: [eve-ng, docker, git, nuclei, burpsuite, metasploit, autopsy, volatility, wireshark, suricata, snort, arduino, raspberrypi, maxpatrol],
+  categories: ["forensics", "web", "networks"],
+  communities: {
+                        worker: "PT",
+                        participant: "Russian CTF community"
+                      }
+}
+```
+-----
 
-Current programming languages: Python, C++ (Arduino) :open_file_folder: 
+## My socials:
 
-Current CTF majors: forensics, web, admin, networks, pentest 😃 
+Telegram, Instagram, VK, Discord -> yan0kyan0k
 
-Goals: new programming languages, cybersecurity, all the things that seemes interesting to me :pushpin:
+Mail -> yanagerasimenko@bk.ru
 
-Write me in Telegram, Instagram, VK -> yan0kyan0k :vibration_mode: 
- 
+-----
