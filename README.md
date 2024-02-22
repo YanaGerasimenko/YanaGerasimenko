@@ -16,7 +16,7 @@ const character = {
   weapons: [Python,  C++],
   interests: [Robotics, Cybersec],
   teams: ["qual3nc3", "qualitas/free_funky_frogs", "енотики/борщевик"],
-  tools: [eve-ng, docker, git, nuclei, burpsuite, metasploit, autopsy, volatility, wireshark, suricata, snort, arduino, raspberrypi, maxpatrol],
+  tools: [eve-ng, docker, git, nuclei, burpsuite, metasploit, autopsy, volatility, wireshark, suricata, snort, arduino, raspberrypi, maxpatrol (PDQL)],
   categories: ["forensics", "web", "networks"],
   communities: {
                         worker: "PT",
